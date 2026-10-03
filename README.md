@@ -9,6 +9,7 @@ l'Algérie, Torino au centre. La casse industrielle est ouverte.
 - Le bouton « Signaler » n'envoie rien.
 - Parodie non officielle, sans lien avec IVECO. IVECO et les noms de modèles sont des
   marques d'IVECO S.p.A.
-- Classement et casses enregistrés sur chaque téléphone (pas de serveur).
+- Classement, casses et CA pièces détachées enregistrés sur chaque téléphone (pas de serveur).
+- Camions IVECO et tracteurs New Holland / Case IH simulés ; noms de marques cités à titre parodique.
 
 Ce dépôt ne contient que le site compilé. Fond de carte : Natural Earth (domaine public).
